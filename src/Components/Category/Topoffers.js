@@ -1,25 +1,24 @@
-import React from 'react'
+import React from "react";
 import Footer from "../Home/Footer";
 import ProductList from "../Home/ProductList";
 import Navbar from "../Navbar";
 import Carousel from "./Carousel";
 import Category from "./Category";
-import data from '../../data'
+import data from "../../data";
 export default function Top_offers() {
   const item = data.map((item) => {
-    if (item.offer !==null && item.offer !== "") {
+    if (item.offer !== null && item.offer !== "") {
       return <ProductList key={item.id} {...item} />;
     }
     return "";
-  }); 
+  });
   return (
     <>
       <Navbar />
       <Category />
       <Carousel />
-      
-        <div className="productlist">{item}</div>
-   
+
+      <div className="productlist">{item}</div>
 
       <Footer />
     </>

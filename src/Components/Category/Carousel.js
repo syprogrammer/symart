@@ -1,8 +1,6 @@
 import React from "react";
 
-
 export default function Carousel() {
-  
   return (
     <>
       <div
@@ -10,7 +8,7 @@ export default function Carousel() {
         className="carousel slide"
         data-bs-ride="carousel"
       >
-        <div className="carousel-inner" >
+        <div className="carousel-inner">
           <div className="carousel-item active">
             <img
               src="https://storiesflistgv2.blob.core.windows.net/stories/2021/05/FKSfooterbanner_new__.jpg"

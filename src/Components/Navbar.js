@@ -1,15 +1,14 @@
-import React,{useContext} from 'react'
-import cartContext from '../context/cartContext';
+import React, { useContext } from "react";
+import cartContext from "../context/cartContext";
 import { useNavigate } from "react-router-dom";
 
 export default function Navbar() {
-
   const context = useContext(cartContext);
   const { cartlength } = context;
 
-  const login = true
-    let navigate = useNavigate();
- 
+  const login = true;
+  let navigate = useNavigate();
+
   return (
     <>
       <nav>

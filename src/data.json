@@ -89,7 +89,7 @@
     "offer": ""
   },
   {
-    "id":"11",
+    "id":"12",
     "name": "Namkeen",
     "category": "groceries",
     "price": "80",
@@ -97,7 +97,7 @@
     "offer": "2% off"
   },
   {
-    "id":"12",
+    "id":"13",
     "name": "chocolate",
     "category": "groceries",
     "price": "60",
@@ -105,7 +105,7 @@
     "offer": "4% off"
   },
   {
-    "id":"13",
+    "id":"14",
     "name": "shirts",
     "category": "Fashion",
     "price": "600",
@@ -113,7 +113,7 @@
     "offer": ""
   },
   {
-    "id":"14",
+    "id":"15",
     "name": "shoes",
     "category": "Fashion",
     "price": "700",
@@ -121,7 +121,7 @@
     "offer": "5% off"
   },
   {
-    "id":"15",
+    "id":"16",
     "name": "Usha-fan",
     "category": "electronics",
     "price": "1600",
