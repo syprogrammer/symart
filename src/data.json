@@ -1,0 +1,132 @@
+
+[
+  {
+    "id":"1",
+    "name": "nokia",
+    "category": "mobiles",
+    "price": "400",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAE1SLFHmV1_0Hc1AYgNUcM4Rys341PfoPow&usqp=CAU",
+    "offer": "10% off"
+  },
+  {
+    "id":"2",
+    "name": "chips",
+    "category": "groceries",
+    "price": "100",
+    "image": "https://www.bigbasket.com/media/uploads/p/l/1204088_4-bingo-yumitos-potato-chips-original-style-chilli.jpg",
+     "offer":""
+  },
+  {
+    "id":"3",
+    "name": "cooler",
+    "category": "Electronics",
+    "price": "4000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1kLVV0793WjtX25s6sgeWEDwC74g_ExZww&usqp=CAU",
+    "offer": "10% off"
+  },
+  {
+    "id":"4",
+    "name": "T-Shirt",
+    "category": "Fashion",
+    "price": "500",
+    "image": "https://m.media-amazon.com/images/S/aplus-media/vc/c887f58a-7db9-4b35-85db-15573ce3b515.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+    "offer": "10% off"
+  },
+  {
+    "id":"5",
+    "name": "Tws-earpods",
+    "category": "electronics",
+    "price": "1500",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3O4H6N7jZbzpAVDaT4ivLIcMl6v70LmAfg&usqp=CAU",
+    "offer": "10% off"
+  },
+  {
+    "id":"6",
+    "name": "Samsung",
+    "category": "mobiles",
+    "price": "15000",
+    "image": "https://www.91-img.com/pictures/147064-v4-samsung-galaxy-a73-5g-mobile-phone-large-7.jpg?tr=h-241,c-at_max,q-80",
+    "offer": "10% off"
+  },
+  {
+    "id":"7",
+    "name": "redmi",
+    "category": "mobiles",
+    "price": "12000",
+    "image": "https://phoneaqua.com/products/Redmi-l19.jpg",
+    "offer": "20% off"
+  },
+  {
+    "id":"8",
+    "name": "oppo",
+    "category": "mobiles",
+    "price": "14000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGugosEG7N4VQ6_35V4P4VhmIrsgV1xYC8Ag&usqp=CAU",
+    "offer": ""
+  },
+  {
+    "id":"9",
+    "name": "vivo",
+    "category": "mobiles",
+    "price": "14000",
+    "image": "https://i.gadgets360cdn.com/products/large/vivo-y75-5g-625x800-1643270875.jpg?downsize=*:360",
+    "offer": ""
+  },
+  {
+    "id":"10",
+    "name": "vivo",
+    "category": "mobiles",
+    "price": "14000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMeP7D3_EDMzPqPXIc6fxt1wODbKTR0cKgg&usqp=CAU",
+    "offer": "25% off"
+  },
+  {
+    "id":"11",
+    "name": "biscuits",
+    "category": "groceries",
+    "price": "50",
+    "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-au7mok02br0m258dgrfuqgmvt0-20200610125322.Medi.jpeg",
+    "offer": ""
+  },
+  {
+    "id":"11",
+    "name": "Namkeen",
+    "category": "groceries",
+    "price": "80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIwtZeweBXSi7UjWkX7ynjjzzP-sMmenOhQ&usqp=CAU",
+    "offer": "2% off"
+  },
+  {
+    "id":"12",
+    "name": "chocolate",
+    "category": "groceries",
+    "price": "60",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycAgs3p7DEIwTieQrmQ47Z9wi-mz1FWOxH7DuIOk47GY81r1qQ_sMhB3luRQ0Lw__tc0&usqp=CAU",
+    "offer": "4% off"
+  },
+  {
+    "id":"13",
+    "name": "shirts",
+    "category": "Fashion",
+    "price": "600",
+    "image": "https://cdn.linenclub.com/media/catalog/product/cache/5399faaab5f4f7a53013d830013bdee7/c/a/camsfyd51601412-e4_5.jpg",
+    "offer": ""
+  },
+  {
+    "id":"14",
+    "name": "shoes",
+    "category": "Fashion",
+    "price": "700",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFBAigAkL5Pc5ZzXjjDLQGE6IxeN5WAHkYQ&usqp=CAU",
+    "offer": "5% off"
+  },
+  {
+    "id":"15",
+    "name": "Usha-fan",
+    "category": "electronics",
+    "price": "1600",
+    "image": "https://5.imimg.com/data5/AK/JI/MY-17703673/usha-pulsar-deluxe-ceiling-fan-500x500.jpg",
+    "offer": "6% off"
+  }
+
+]
